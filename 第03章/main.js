@@ -151,6 +151,6 @@ console.log(([1,2,3]).toString());
 console.log((function (x) {
     return x;
 }).toString());
-console.log((new Date(2016,03,18,10,59)).toString());
+console.log((new Date(2016,03,18)).toString());
 console.log((new Date()).toString());
 console.log((new Date()).valueOf());

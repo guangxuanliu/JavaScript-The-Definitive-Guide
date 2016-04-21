@@ -19,6 +19,7 @@
 // trace(liu,"sayAge");
 // liu.sayAge(12);
 
+//未完待续
 function not(f) {
     return function () {
         var result = f.apply(this,arguments);

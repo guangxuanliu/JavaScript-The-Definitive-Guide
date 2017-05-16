@@ -99,3 +99,4 @@ function trace(o, m) {
         return result;
     };
 }
+console.log(Math.max.toString());
